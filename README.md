@@ -1,4 +1,4 @@
-## Hallo, wie gets 👋
+## Hallo, wie geht's 👋
 I'm Joel Bartolo, a robotics and software developer specializing in embedded systems. My work focuses on developing firmware and hardware for IoT applications, enabling real-time sensor data processing and communication for autonomous systems.
 ## 🔧 Skills & Interests:
 🦾 Robotics & Autonomous Systems<br>
