@@ -3,7 +3,7 @@ I'm Joel Bartolo, a robotics and software developer specializing in embedded sys
 ## 🔧 Skills & Interests:
 🦾 Robotics & Autonomous Systems<br>
 🤖 ROS2 & Micro-ROS<br>
-🎛️ Embedded Systems (STM32, Jetson Nvidia)<br>
+🎛️ Embedded Systems (STM32, NVIDEA Jetson)<br>
 🖥️ Altium Designer, KiCad 8, STM32CubeIDE and SolidWorks<br>
 🏗️ Simulation & Prototyping<br>
 🖥️ Computer Vision & AI<br>
