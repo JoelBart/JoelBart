@@ -6,11 +6,10 @@ in analog and digital electronics, with hands-on experience in testing, validati
 ## 🔧 Skills & Interests:
 🦾 Robotics & Autonomous Systems<br>
 🤖 ROS2 & Micro-ROS<br>
-🎛️ Embedded Systems (STM32, NVIDEA Jetson)<br>
+🎛️ Embedded Systems
 🖥️ Altium Designer, KiCad 8, STM32CubeIDE and SolidWorks<br>
 🏗️ Simulation & Prototyping<br>
 🖥️ Computer Vision & AI<br>
-📦 Docker for Robotics<br>
 
 ### 🛠️ Tools 
 ![Altium Designer](https://img.shields.io/badge/EDA-Altium_Designer-blue?logo=altiumdesigner&logoColor=white)<br>
@@ -24,10 +23,6 @@ in analog and digital electronics, with hands-on experience in testing, validati
 ![FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS-blue?logo=freertos&logoColor=white)<br>
 ![ROS2](https://img.shields.io/badge/Robotics-ROS2-purple?logo=ros&logoColor=white)<br>
 ![micro-ROS](https://img.shields.io/badge/Embedded-micro--ROS-brightgreen?logo=ros&logoColor=white)<br>
-
-![MPLAB](https://img.shields.io/badge/IDE-MPLAB_X_IDE-blue?logo=microchip&logoColor=white)<br>
-![STM32CubeIDE](https://img.shields.io/badge/IDE-STM32CubeIDE-darkblue?logo=stmicroelectronics&logoColor=white)<br>
-![Keil](https://img.shields.io/badge/IDE-Keil-brightgreen?logo=arm&logoColor=white)<br>
 
 ### 🎭 Hobbies
 <!-- This is a comment -->
