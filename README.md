@@ -1,5 +1,8 @@
 ## Hallo, wie geht's 👋
-I'm Joel Bartolo, a robotics and software developer specializing in embedded systems. My work focuses on developing firmware and hardware for IoT applications, enabling real-time sensor data processing and communication for autonomous systems.
+Hardware & Embedded Systems Engineer with over 2 years of experience in PCB design, hardware
+development, and embedded firmware. Experienced in schematic design and PCB layout, including mixed-
+signal and high-speed designs, as well as hardware debugging and BOM management. Strong foundation
+in analog and digital electronics, with hands-on experience in testing, validation, and system integration.
 ## 🔧 Skills & Interests:
 🦾 Robotics & Autonomous Systems<br>
 🤖 ROS2 & Micro-ROS<br>
